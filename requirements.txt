@@ -9,3 +9,4 @@ tiktoken ==0.5.2
 streamlit-javascript ==0.1.5
 requests ==2.31.0
 PyPDF2 == 3.0.1
+pdfminer == 20191125
