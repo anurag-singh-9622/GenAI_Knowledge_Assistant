@@ -10,4 +10,4 @@ streamlit-javascript ==0.1.5
 requests ==2.31.0
 PyPDF2 == 3.0.1
 pdfminer ==20191125
-pdfminer.six
+pdfminer.six==20231228
