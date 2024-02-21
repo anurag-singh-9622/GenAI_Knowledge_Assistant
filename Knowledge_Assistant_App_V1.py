@@ -13,7 +13,7 @@ import urllib.parse
 from collections import Counter
 # Load personas
 # Initial API Key Input
-st.title("Knowledge assistant for research")
+st.title("Knowledge assistant  research")
 api_key = st.text_input("Enter your OpenAI API key", type="password")
 fda_api_key = st.text_input("Enter your FDA API key", type="password")
 def validate_api_key(api_key):
